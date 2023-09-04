@@ -1,4 +1,4 @@
-public class Minus {
+public class Minus { //
     public int minus(int x, int y){
         return minus(x, y);
     }
